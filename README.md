@@ -2,12 +2,12 @@
 
 DATE: 16-03-2023
 
-AIM :
+# AIM :
 
 To write a python program to perform stop and wait protocol
 
 
-ALGORITHM :
+# ALGORITHM :
 
 1. Start the program.
 2. Get the frame size from the user
@@ -18,7 +18,7 @@ ALGORITHM :
 6. Stop the program
 
 
-PROGRAM :
+# PROGRAM :
 
 CLIENT:
 ```
@@ -50,11 +50,11 @@ while True:
 ```
 
 
-OUTPUT :
+# OUTPUT :
 
 
 
-RESULT :
+# RESULT :
 
 Thus, python program to perform stop and wait protocol was successfully executed.
 
