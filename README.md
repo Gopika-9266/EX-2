@@ -52,6 +52,13 @@ while True:
 
 # OUTPUT :
 
+CLIENT:
+
+![Screenshot (163)](https://github.com/Gopika-9266/EX-2/assets/122762773/76e593f3-bfe0-43ec-ad7b-cdae408f8822)
+
+SERVER:
+
+![Screenshot (162)](https://github.com/Gopika-9266/EX-2/assets/122762773/a6a4e1e9-2091-4d4a-8a27-9d5a948da3d6)
 
 
 # RESULT :
